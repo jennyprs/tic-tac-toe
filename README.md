@@ -1,2 +1,3 @@
 # tic-tac-toe
-Created with CodeSandbox
+
+Simple tic-tac-toe game from react.dev for introduction to React.
